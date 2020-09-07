@@ -519,7 +519,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 /*-- services --*/
 /*-- services --*/
 .services{
-	background:url(../images/service.jpg) no-repeat center;
+	background:url(../images/SlideBackground.png) no-repeat center;
 	background-size:cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
