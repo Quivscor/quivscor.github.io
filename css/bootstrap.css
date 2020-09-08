@@ -3891,14 +3891,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
-  background-color: #eee;
+  background-color: #8b00c2;
 }
 .nav > li.disabled > a {
   color: #777;
 }
 .nav > li.disabled > a:hover,
 .nav > li.disabled > a:focus {
-  color: #777;
+  color: #8b00c2;
   text-decoration: none;
   cursor: not-allowed;
   background-color: transparent;
@@ -4408,14 +4408,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-color: transparent;
 }
 .navbar-default .navbar-text {
-  color: #777;
+  color: #8b00c2;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #777;
+  color: #8b00c2;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #333;
+  color: #8b00c2;
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a,
